@@ -1,6 +1,6 @@
-### ૮ ・ﻌ・ა Let,s travel round the world !
-
-
+### ૮ ・ﻌ・ა 
+<br>
+<div align=center><img src="https://github-readme-stats.vercel.app/api?username=zhengchengshi&show_icons=true"/></div>
 <!--
 **zhengchengshi/zhengchengshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
